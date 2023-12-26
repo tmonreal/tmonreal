@@ -1,4 +1,4 @@
-- 👋 Hi! I’m Trinidad Monreal.
+👋 Hi there! I’m Trinidad Monreal 🙋🏽‍♀️
 - 🎓 I’m a Biomedical Engineer (Universidad Favaloro) specialized in AI (Universidad de Buenos Aires).
 - 🫀 I’m interested in medical image processing, bioinformatics and related domains.
 - 👩🏻‍💻 I currently work @ Laboratorio de Inteligencia Artificial y Robótica (Universidad de San Andrés).
