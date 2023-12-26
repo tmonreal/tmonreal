@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @tmonreal
-- 👀 I’m a Biomedical Engineer interested in medical image processing
-- 🌱 I’m currently learning Artificial Intelligence @ FIUBA 
-- 💞️ I’m looking to collaborate on projects in the medical field
-- 📫 How to reach me: trinidadmonreal@gmail.com
+- 👋 Hi! I’m Trinidad Monreal.
+- 🎓 I’m a Biomedical Engineer (Universidad Favaloro) specialized in AI (Universidad de Buenos Aires).
+- 🫀 I’m interested in medical image processing, bioinformatics and related domains.
+- 👩🏻‍💻 I currently work @ Laboratorio de Inteligencia Artificial y Robótica (Universidad de San Andrés).
+- 🤝🏻 I’m looking to collaborate on projects in the medical field!
+- 📬 Feel free to reach me @ trinidadmonreal@gmail.com.
 
 <!---
 tmonreal/tmonreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
